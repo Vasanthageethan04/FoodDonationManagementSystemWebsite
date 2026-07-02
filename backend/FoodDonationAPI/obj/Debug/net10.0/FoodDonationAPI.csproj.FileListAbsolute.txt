@@ -1,0 +1,8 @@
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\FoodDonationAPI.csproj.AssemblyReference.cache
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\FoodDonationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\FoodDonationAPI.AssemblyInfoInputs.cache
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\FoodDonationAPI.AssemblyInfo.cs
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\FoodDonationAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\FoodDonationAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\.gemini\antigravity-ide\scratch\food-donation-system\backend\FoodDonationAPI\obj\Debug\net10.0\FoodDonationAPI.MvcApplicationPartsAssemblyInfo.cache

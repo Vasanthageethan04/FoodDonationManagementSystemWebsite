@@ -1,0 +1,6 @@
+@FoodDonationAPI_HostAddress = http://localhost:5017
+
+GET {{FoodDonationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
